@@ -1,4 +1,4 @@
-1. Cherry tomatoes
+1. Merge conflict on feature1
 2. Italian basil
 3. Jalapenos
 4. Cayenne peppers
